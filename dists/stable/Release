@@ -1,0 +1,32 @@
+Origin: claudear
+Label: claudear
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Claude Watchers APT Repository
+Date: Fri, 13 Feb 2026 02:45:20 +0000
+MD5Sum:
+ fd80f678c9b610971c68a5769726ad85              190 Release
+ 326492b03ee8da0e80dc0f609c43e156              640 main/binary-amd64/Packages
+ 73f4a30cfb8a69adfb6ffa2e9e841da2              476 main/binary-amd64/Packages.gz
+ e0bc930dffc1b368ec63b1612e64f255              644 main/binary-arm64/Packages
+ ca222e0466e29569568973a9e929f44d              478 main/binary-arm64/Packages.gz
+SHA1:
+ 2a662d15986a1449a2227a6dc85fc7be5cf9ffd3              190 Release
+ 1c140cca46b54f3a8a3e8e6d743de132cc62a197              640 main/binary-amd64/Packages
+ e2369f196fd27800784219df9ad5a573933fe4dc              476 main/binary-amd64/Packages.gz
+ b6d7c6fa80471ec7018ce69631617f2f76fa2234              644 main/binary-arm64/Packages
+ ed7bd3018d4c5fa2202fddb8dcade058f3cb6c00              478 main/binary-arm64/Packages.gz
+SHA256:
+ f65d7896b3bba731cc8cf80d4836e641af7633da5ae8f26aa0c261702155d1cc              190 Release
+ af45a33565eb650123410bf21401d6f55e2f48e49c60baff94ddfb0e8fcc8039              640 main/binary-amd64/Packages
+ 8553a093d763bc8e79cc08974e54829c85d8493eb56c6581ec99b56b4f3f1de2              476 main/binary-amd64/Packages.gz
+ ee10019c43bc233052ac41ad162fdadecd6cd2dbf88bebcb27d7b5d98f155ee5              644 main/binary-arm64/Packages
+ 97801258e98ecccee34f3494cc076027bad18519717ff990242542c6d64dbad4              478 main/binary-arm64/Packages.gz
+SHA512:
+ 8c7e63da84ae8bdc145cb94683873985799b3379932ed7f60c7ed990f0e235b0f734114b2d13a10b4d3799474ee8b2037144b70b0667b7cc6dc03b24650c99f3              190 Release
+ e2c369304e5f706374eed345ecd07c5290b94bb870739f5e00a26c30f740ddb537cd92452a53cea0e9d63da5a74d49d900b07ace91fc7f977c933648ad539e86              640 main/binary-amd64/Packages
+ d08561ef9bfeb9dc654253ef75ffa5e8a582ae00772b87e1cf18936a78af300a3c5ed01bdce3a983b702f83ffc325ee6990e2ed37aa2bf4fbe57dd6669583b70              476 main/binary-amd64/Packages.gz
+ 8204bf235e66a6fe58408e6552b7d38242b8e18c9a3b87ad6e36b1af3cdfa641f08e49ff1ec70552524fb5774e3be18075d19f2333e574beb2441a05f5aa4e3f              644 main/binary-arm64/Packages
+ 48e6d548fc7473b1ac442f2167f596bdc52dd27043eff1e3826f1cd0d72d780f741a08833c454ddf076e0f25d1ae7b8fc139d459c930e3cae91eaa603814e013              478 main/binary-arm64/Packages.gz
