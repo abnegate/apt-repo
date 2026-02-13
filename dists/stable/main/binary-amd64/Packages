@@ -1,22 +1,4 @@
 Package: claudear
-Version: 0.1.1-1
-Architecture: amd64
-Maintainer: Claudear Contributors
-Installed-Size: 37868
-Depends: libc6 (>= 2.39), libstdc++6 (>= 12)
-Filename: pool/main/claudear_0.1.1-1_amd64.deb
-Size: 10770640
-MD5sum: 74e875733d30185124c81bcb238a5523
-SHA1: a5e8217ebbf3728776330798dcfa1984abe90749
-SHA256: f700f27c9e277751425cc353cf3b28906c2b6407b18e28d246a2aa59d209a490
-Section: utils
-Priority: optional
-Description: [generated from Rust crate claudear]
- A high-performance unified watcher service that monitors issue trackers
- (Linear, Sentry) and automatically spawns Claude Code agents to fix issues and
- create pull requests.
-
-Package: claudear
 Version: 0.1.2-1
 Architecture: amd64
 Maintainer: Claudear Contributors
@@ -33,3 +15,4 @@ Description: [generated from Rust crate claudear]
  A high-performance unified watcher service that monitors issue trackers
  (Linear, Sentry) and automatically spawns Claude Code agents to fix issues and
  create pull requests.
+
