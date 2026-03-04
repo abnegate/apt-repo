@@ -275,10 +275,10 @@ Maintainer: Claudear Contributors
 Installed-Size: 83856
 Depends: libc6 (>= 2.39), libgomp1 (>= 4.9), libstdc++6 (>= 12)
 Filename: pool/main/claudear_0.20.0-1_amd64.deb
-Size: 18018588
-MD5sum: f209722799a04c485f30109187c95358
-SHA1: 2a0b7d78f13c6ec1d9aa501830a95a25f665c624
-SHA256: 13aa6a79d1bc4388aec4d729bb060643288113eb2fed4fe5a13656b79563efd5
+Size: 18018920
+MD5sum: 288e3d2f6443e25d184955509724ec15
+SHA1: 1d57f46dd14a97ecc6f215fe0c425db3bb33bcc3
+SHA256: c6e4c8ccaeae7be0ae40d419107ded81a61bb98626b6d191981b2623926e7b1c
 Section: utils
 Priority: optional
 Description: [generated from Rust crate claudear]
