@@ -755,6 +755,24 @@ Description: [generated from Rust crate claudear]
  create pull requests.
 
 Package: claudear
+Version: 0.42.0-1
+Architecture: amd64
+Maintainer: Claudear Contributors
+Installed-Size: 85018
+Depends: libc6 (>= 2.39), libgomp1 (>= 4.9), libstdc++6 (>= 12)
+Filename: pool/main/claudear_0.42.0-1_amd64.deb
+Size: 18431096
+MD5sum: 39210a07ecd0009d7c00c8bb73c0986d
+SHA1: 1b799d75755489e6ff3bff217a4b1fadeae550f4
+SHA256: dd71c95918b5113a5edae38802a3c511b13f27600f0352d127557812b231adcf
+Section: utils
+Priority: optional
+Description: [generated from Rust crate claudear]
+ A high-performance unified watcher service that monitors issue trackers
+ (Linear, Sentry) and automatically spawns Claude Code agents to fix issues and
+ create pull requests.
+
+Package: claudear
 Version: 0.5.0-1
 Architecture: amd64
 Maintainer: Claudear Contributors
