@@ -1016,3 +1016,19 @@ Homepage: https://github.com/abnegate/magents
 Description: Shared session bus for Claude Code, Codex, Cursor, Grok, and OpenCode
  MCP server and CLI so one agent can continue another agent's session.
 
+Package: magents
+Version: 0.9.0-1
+Architecture: amd64
+Maintainer: Jake Barnby <jakeb994@gmail.com>
+Installed-Size: 9208
+Filename: pool/main/magents_0.9.0-1_amd64.deb
+Size: 3078500
+MD5sum: 435566794a42706774a42c8bc7af3ff0
+SHA1: 0ba29a8f90515d0265d6d1a55189c784d0fb2458
+SHA256: efe7c2794242bfdf75f3d204f43fd35362535979d3763e0997e378a4817f6f2e
+Section: utils
+Priority: optional
+Homepage: https://github.com/abnegate/magents
+Description: Shared session bus for Claude Code, Codex, Cursor, Grok, and OpenCode
+ MCP server and CLI so one agent can continue another agent's session.
+
