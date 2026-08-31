@@ -952,3 +952,19 @@ Description: [generated from Rust crate claudear]
  (Linear, Sentry) and automatically spawns Claude Code agents to fix issues and
  create pull requests.
 
+Package: magents
+Version: 0.4.0-1
+Architecture: amd64
+Maintainer: Jake Barnby <jakeb994@gmail.com>
+Installed-Size: 8796
+Filename: pool/main/magents_0.4.0-1_amd64.deb
+Size: 2750612
+MD5sum: 2f27f939688099fd3ec26fb1e3e8cc72
+SHA1: e3c7c5e65ca8ae362072b0b5b67eccb6282b860d
+SHA256: 5d361fed8c71f84e220f43b048b54935fee5f2f18e5cd6a71f79ac64ca1dbd79
+Section: utils
+Priority: optional
+Homepage: https://github.com/abnegate/magents
+Description: Shared session bus for Claude Code, Codex, Cursor, Grok, and OpenCode
+ MCP server and CLI so one agent can continue another agent's session.
+
