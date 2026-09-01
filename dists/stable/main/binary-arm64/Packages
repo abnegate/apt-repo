@@ -953,6 +953,22 @@ Description: [generated from Rust crate claudear]
  create pull requests.
 
 Package: magents
+Version: 0.10.0-1
+Architecture: arm64
+Maintainer: Jake Barnby <jakeb994@gmail.com>
+Installed-Size: 8224
+Filename: pool/main/magents_0.10.0-1_arm64.deb
+Size: 2957110
+MD5sum: 5404cb46d0fb32504465716e69b5ac7e
+SHA1: 9473b28fa482cdfcd910186eec3e16dc578474bc
+SHA256: 08f856c7101d180e9f61e5dd8ab961a9f77749e5ebf3aa89f38d50ff9308bc1b
+Section: utils
+Priority: optional
+Homepage: https://github.com/abnegate/magents
+Description: Shared session bus for Claude Code, Codex, Cursor, Grok, and OpenCode
+ MCP server and CLI so one agent can continue another agent's session.
+
+Package: magents
 Version: 0.4.0-1
 Architecture: arm64
 Maintainer: Jake Barnby <jakeb994@gmail.com>
