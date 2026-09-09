@@ -1,0 +1,54 @@
+Package: aiusg
+Version: 0.1.0-1
+Architecture: arm64
+Maintainer: Jake Barnby <jakeb994@gmail.com>
+Installed-Size: 9448
+Depends: libc6 (>= 2.35), libgcc-s1, libdbus-1-3
+Filename: pool/main/aiusg_0.1.0-1_arm64.deb
+Size: 3872606
+MD5sum: 7a34c24dd0c829f6a7b1e16feff2ff12
+SHA1: b95760da795463aff493a395eb8e53d869cd21e5
+SHA256: 449ef00a500f7694c60198e63241431cf0e21b113b1ad55ef1d6e9b50b6b02e3
+Section: utils
+Priority: optional
+Homepage: https://github.com/abnegate/aiusg
+Description: Usage limits and reset times across all your AI provider accounts
+ Reads how much of each AI subscription is left (Claude, Codex, Gemini,
+ Copilot, Grok and Cursor) and prints every account as one table. Also
+ serves the same data over MCP so agents can route to an account with
+ headroom.
+
+Package: claudear
+Version: 0.52.0-1
+Architecture: arm64
+Maintainer: Claudear Contributors
+Installed-Size: 80735
+Depends: libc6:arm64 (>= 2.39), libgomp1:arm64, libstdc++6:arm64
+Filename: pool/main/claudear_0.52.0-1_arm64.deb
+Size: 17600172
+MD5sum: e2450c1875d03c3c86bad04a4d37ab87
+SHA1: 29829361212f9038335b53c8f0855d6eace282ab
+SHA256: 2ee4accd021fd93bc6b06c47fa826b86a731d7c4e5c445cc02f1c2ad9d180521
+Section: utils
+Priority: optional
+Description: [generated from Rust crate claudear]
+ A high-performance unified watcher service that monitors issue trackers
+ (Linear, Sentry) and automatically spawns Claude Code agents to fix issues and
+ create pull requests.
+
+Package: magents
+Version: 0.10.1-1
+Architecture: arm64
+Maintainer: Jake Barnby <jakeb994@gmail.com>
+Installed-Size: 8224
+Filename: pool/main/magents_0.10.1-1_arm64.deb
+Size: 2956954
+MD5sum: df7ea40fd5a1559cb3fcd25147dbcafb
+SHA1: 1ecfbf1f5e3f4aa7e492f3c17e33d997a25086dd
+SHA256: 7dec7b805958264efd4612687cda063f1f1ad2ee35a08d6d852ba34c7aa10072
+Section: utils
+Priority: optional
+Homepage: https://github.com/abnegate/magents
+Description: Shared session bus for Claude Code, Codex, Cursor, Grok, and OpenCode
+ MCP server and CLI so one agent can continue another agent's session.
+
