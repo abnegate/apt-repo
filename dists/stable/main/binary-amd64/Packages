@@ -1,14 +1,14 @@
 Package: aiusg
-Version: 0.2.0-1
+Version: 0.3.0-1
 Architecture: amd64
 Maintainer: Jake Barnby <jakeb994@gmail.com>
-Installed-Size: 11428
+Installed-Size: 11456
 Depends: libc6 (>= 2.35), libgcc-s1, libdbus-1-3
-Filename: pool/main/aiusg_0.2.0-1_amd64.deb
-Size: 4066346
-MD5sum: 48f8f7c0ea912d8d44e7f6e5cf25c769
-SHA1: c9a44b54b41acbd3b2ae4d6e91c9861b804f6f3f
-SHA256: cecdb1b3447d94d7696a19b45c64ddd2892b88d2ad6491d44975044af02dda29
+Filename: pool/main/aiusg_0.3.0-1_amd64.deb
+Size: 4076302
+MD5sum: 56d4b2fcdbad311948149b23e7167e5d
+SHA1: c92a9dc3462f4f2ff9d7125fe8944632d9ffb615
+SHA256: 40deed0de893dc47805c817114556bc67fa53c54a657188f11476829e971cc8e
 Section: utils
 Priority: optional
 Homepage: https://github.com/abnegate/aiusg
