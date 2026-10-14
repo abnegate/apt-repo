@@ -37,15 +37,15 @@ Description: [generated from Rust crate claudear]
  create pull requests.
 
 Package: magents
-Version: 0.13.2-1
+Version: 0.14.0-1
 Architecture: arm64
 Maintainer: Jake Barnby <jakeb994@gmail.com>
-Installed-Size: 8864
-Filename: pool/main/magents_0.13.2-1_arm64.deb
-Size: 3181780
-MD5sum: 59cb38077ed55c3cf2b3abb28da5d51f
-SHA1: 308077f4bd76a0916bd9e9d035035628947376e4
-SHA256: bec7196cd24e787d606926d8b5759041c6d34ba953b617fa096c380a3f269a55
+Installed-Size: 8928
+Filename: pool/main/magents_0.14.0-1_arm64.deb
+Size: 3221276
+MD5sum: b7c5401b43c48e5444051ee8a906b3dd
+SHA1: 271139ec9194ace2c8c9c8bdcbd9dc7f931c560a
+SHA256: 5616e7494184492eb2c23211df92f635f0bae3e0b4445244c460cb9175868e8a
 Section: utils
 Priority: optional
 Homepage: https://github.com/abnegate/magents
