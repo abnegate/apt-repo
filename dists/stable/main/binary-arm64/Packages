@@ -19,16 +19,16 @@ Description: Usage limits and reset times across all your AI provider accounts
  headroom.
 
 Package: claudear
-Version: 0.57.2-1
+Version: 0.57.3-1
 Architecture: arm64
 Maintainer: Claudear Contributors
 Installed-Size: 91618
 Depends: libc6:arm64 (>= 2.39), libgomp1:arm64, libstdc++6:arm64
-Filename: pool/main/claudear_0.57.2-1_arm64.deb
-Size: 21569436
-MD5sum: 9b5a67466a8aafdbb3ab7d83d3150365
-SHA1: ca1ef5bec1db17f6be16270ab0ef306b2253db39
-SHA256: 86ed58e48f4cc7b1d50d0f00147ae6de194e2b4c8b97f47ae3879840831af515
+Filename: pool/main/claudear_0.57.3-1_arm64.deb
+Size: 21578088
+MD5sum: eb1b7c87013581193d84f3d4985666a1
+SHA1: 6d6235c785abf8816c8e02a0d294905b9ee70f6c
+SHA256: 05cf6febb19ee9143d581112abe59071371bef3e0b1ba58af5ce7048f4dc9562
 Section: utils
 Priority: optional
 Description: [generated from Rust crate claudear]
